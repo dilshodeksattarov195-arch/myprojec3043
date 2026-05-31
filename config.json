@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authpync",
+        "uuid": 8636034,
+        "checksum": "wigumk"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
